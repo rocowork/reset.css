@@ -1,0 +1,11 @@
+格狀排版
+
+在做格狀排列的時候，可以使用 float:left 和 display:inline-block兩種方法。
+http://www.w3cplus.com/css/inline-blocks.html
+http://blog.teamtreehouse.com/using-inline-block-to-display-a-product-grid-view
+
+CSS編寫原則
+
+為了寫出效能比較好的CSS，我們會盡可能的寫出最好的結構。以下有一些編寫原則的網站：
+http://www.alloyteam.com/2012/10/high-performance-css/
+http://geekplux.com/2014/02/20/css_written_principles.html
